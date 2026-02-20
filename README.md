@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 Full-Stack Developer (MERN) & Competitive Programmer passionate about building scalable web applications and solving real-world problems with clean, efficient code.<br>🚀 Built production-ready projects like HireConnect.<br>🏆 Codeforces Expert (1719) | CodeChef 4⭐ (1853) | LeetCode Knight (1885)<br>📈 Thrive in fast-paced environments — build fast, optimize smartly, and continuously improve.<br>📫 Connect with me:<br>💼 LinkedIn<br>📧 abhay3999up@gmail.com<br>⭐ I believe in building impactful systems, writing scalable code, and improving every single day.
+💡 Full-Stack Developer (MERN) & Competitive Programmer passionate about building scalable web applications and solving real-world problems with clean, efficient code.<br>🚀 Built production-ready projects like HireConnect.<br>🏆 Codeforces Expert (1719) | CodeChef 4⭐ (1916) | LeetCode Knight (1885)<br>📈 Thrive in fast-paced environments — build fast, optimize smartly, and continuously improve.<br>📫 Connect with me:<br>💼 LinkedIn:https://www.linkedin.com/in/abhay-pratap-singh-bbaa96256/<br>📧 abhay3999up@gmail.com<br>⭐ I believe in building impactful systems, writing scalable code, and improving every single day.
 
 
 ## 🌐 Socials:
